@@ -1,0 +1,49 @@
+
+
+
+Project plan
+
+Website, where B2B. Software Account hebben en Sollicitaties kunnen uploaden van alle.
+daarna bot Leest CV and maakt CSV en laat baas filteren op CV
+
+
+
+
+Secure User System
+Support System
+CV Reader System
+
+
+Marketing
+    Mail B2B. Spam ze hard
+
+
+Price table + PAYMENT 
+    $? Basic 
+    $? Supr
+    $? Ultra
+
+Legaal
+    ?
+
+- [ ] CV Lees bot
+- [ ] Template Selling + Price table
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+
+
+
+- [ ] Build Business Model
+
+
+
+
+
+
+
+
+
