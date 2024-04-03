@@ -1,0 +1,45 @@
+
+
+
+
+
+
+Resume Parser python package.
+
+Requirement Matching:  Allow the hiring person to input job requirements. Implement a matching algorithm to compare the requirements with the extracted data from resumes. This could involve using NLP techniques like cosine similarity.
+
+
+Use PostgreSQL store all PDF.
+Allow user to press download all Resume in CSV. Run py script to collect all data, show loading sign.
+
+
+Security Measures: Implement robust security measures to prevent uploading of malicious files. Utilize antivirus software to scan uploaded documents and ensure they are safe to process.
+
+
+Server Load Management: To handle potential server load issues, consider using cloud services like AWS or Google Cloud Platform, which offer scalable infrastructure. You can also implement file size limits, rate limiting, and caching mechanisms to optimize resource usage.
+
+
+
+
+
+
+OHH moment
+We provide it for free, Upload and parce get best CV for that person. 
+We get all CV emails and mail them for signup on our site. Then we Have workers we can place on our site. 
+Then wwe can start requitment Company with subscribtion
+
+
+
+Validat legitment
+- Mail companies. 
+
+
+
+
+
+
+
+
+
+
+
